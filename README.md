@@ -1,2 +1,3 @@
-# berryduollc.github.io
-generic static site
+# static.berryduo.com
+
+Nothing here... sorry.
