@@ -10,8 +10,7 @@ Status: In development / Coming soon.
 
 ## Contact
 
-For general inquiries or support, please contact:  
-**Email:** contact@berryduo.com
+For general inquiries or support, please contact: contact@berryduo.com
 
 ## Privacy Policy
 
@@ -31,8 +30,7 @@ Full terms may be updated as products are released.
 
 ## Support
 
-For app support or technical issues, contact:  
-support@berryduo.com
+For app support or technical issues, contact: support@berryduo.com
 
 ---
 
