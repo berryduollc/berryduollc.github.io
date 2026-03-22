@@ -6,7 +6,10 @@ Berry Duo LLC is a software company focused on building mobile and web applicati
 
 **Trivia Shmivia**  
 A single-player trivia app featuring a wide range of general and niche topics.  
-Status: In development / Coming soon.
+
+[Download now for iOS!](https://apps.apple.com/app/apple-store/id6758998543?pt=128538713&ct=landing1&mt=8)
+
+[Learn more about Trivia Shmivia](https://triviashmivia.berryduo.com)
 
 ## Contact
 
