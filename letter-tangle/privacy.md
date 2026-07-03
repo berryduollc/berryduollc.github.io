@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Letter Tangle - Privacy Policy"
+permalink: /letter-tangle/privacy/
+---
+
 # Privacy Policy for Letter Tangle
 
 **Effective Date:** July 3, 2026
